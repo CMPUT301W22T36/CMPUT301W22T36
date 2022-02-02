@@ -39,6 +39,8 @@ captures/
 # Ignore all IDE settings
 .idea/*
 
+.DS_Store
+
 # IntelliJ
 *.iml
 .idea/workspace.xml
