@@ -2,4 +2,6 @@ package com.example.cmput301w22t36;
 
 public abstract class Shape {
     private Integer x, y;
+    String color = "blue";
 }
+
